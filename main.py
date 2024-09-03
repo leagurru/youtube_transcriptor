@@ -2,7 +2,7 @@ import sys
 from youtube_transcript_api import YouTubeTranscriptApi
 
 if len(sys.argv) != 2:
-    print("Uso desde línea de comandos: python script.py <video_id>")
+    print("Uso desde línea de comandos: python main.py <video_id>")
     sys.exit(1)
 
 video_id = sys.argv[1]
