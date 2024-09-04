@@ -6,5 +6,5 @@ python3 youtube_transcriptor.py OuuO3l37653o
 
 
 Instalación:
-virtualenv venv 
+virtualenv venv
 pip install -r requirements.txt
